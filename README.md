@@ -18,7 +18,7 @@ Building user-centric products for web/mobile in fintech. Passionate about data-
 - **Certifications**: Professional Scrum Product Owner I, Software Product Management (Coursera).[cite:13][cite:5][cite:6]
 
 ## 🌱 Currently Learning
-Rapid prototyping with GenAI & fitness apps for family life in Coimbatore. Open to collaborations![cite:3]
+Rapid prototyping with GenAI & fitness apps for family life in Bengaluru. Open to collaborations!
 
 ## 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/dineshvmr](https://www.linkedin.com/in/dineshvmr)
