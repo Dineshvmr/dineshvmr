@@ -7,7 +7,7 @@ Building user-centric products for web/mobile in fintech. Passionate about data-
 ![Sensibull Impact](https://img.shields.io/badge/Sensibull%20Widgets-80%25%20New%20Traffic-brightgreen) ![Users](https://img.shields.io/badge/4M%2B%20Users-blue)
 
 ## 🚀 Experience & Highlights
-- **Sensibull (4+ years)**: Led widgets (80% new user traffic), basket redesign, option chain UI, Verified By Sensibull (social P&L sharing hit).[cite:13]
+- **Sensibull (4+ years)**: Led widgets (80% new user traffic), basket redesign, option chain UI, Verified By Sensibull (social P&L sharing hit).
 - Owned Expert Advice marketplace & high-impact features with founders, design, and eng teams.
 - 9+ years in fintech/trading/SaaS: End-to-end from ideation to growth.
 
@@ -25,4 +25,3 @@ Rapid prototyping with GenAI & fitness apps for family life in Coimbatore. Open 
 - Email: dineshvmr@gmail.com
 - Location: Bengaluru, India (Open to remote/global)
 
-![Metrics](https://github-readme-stats.vercel.app/api?username=Dineshvmr&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshvmr&layout=compact)](https://github.com/Dineshvmr)
