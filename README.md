@@ -15,7 +15,7 @@ Building user-centric products for web/mobile in fintech. Passionate about data-
 - **Product**: Strategy, UX/UI (Figma), Agile/Scrum, Experiments, Growth Hacking.
 - **Analytics**: RudderStack, Mixpanel, SQL, ClickHouse.
 - **Tech**: GenAI prototyping (GPT, Visual Studio), Jira, Notion.
-- **Certifications**: Professional Scrum Product Owner I, Software Product Management (Coursera).[cite:13][cite:5][cite:6]
+- **Certifications**: Professional Scrum Product Owner I, Software Product Management (Coursera).
 
 ## 🌱 Currently Learning
 Rapid prototyping with GenAI & fitness apps for family life in Bengaluru. Open to collaborations!
